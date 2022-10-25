@@ -54,7 +54,13 @@
 
 * [SQL Server Avanzado](https://mega.nz/folder/IgISya5D#gv5Yt7TCbL5WCtFe8p2QVw)
 
-* [MySQL esencial](https://mega.nz/folder/B4YgUQCY#W_92wuLo4TpcjGqy06-PEw)
+* [MySQL Esencial](https://mega.nz/folder/B4YgUQCY#W_92wuLo4TpcjGqy06-PEw)
+
+* [MySQL Avanzado](https://mega.nz/folder/V1QSTC5T#DSlUSH-773iuG4WlAGTzag)
+
+* [PostgreSQL Esencial](https://mega.nz/folder/UwIHHL5B#7hn0674VVM33YYSadgJ8Xw)
+
+* [PostgreSQL Avanzado](https://mega.nz/folder/J1ByEBgL#evf0nSN3GxegE1GdZ7dviA)
 
 ## DevOps
 
