@@ -12,6 +12,8 @@
 
 * [Autenticación API con Laravel 5.7 y Passport](https://mega.nz/folder/1wxzFazS#vbDIZjITP9AKwMe6eybJNg)
 
+* [Conceptos de Arquitectura en Laravel](https://mega.nz/folder/095RjBAA#WqAhy7M88rg7oUjA3Yd7QA)
+
 * [Construyendo una red social con Laravel & TDD](https://mega.nz/folder/w0wDFL6D#jXVtYnF5kjZh7YaPCZbsfA)
 
 * [Curso de Docker para Programadores](https://mega.nz/folder/EgwE2Kyb#-6y3bvZb7TVoswjf5a1DiQ)
@@ -23,6 +25,8 @@
 * [Eloquent ORM desde 0](https://mega.nz/folder/c0x2lYRZ#xfnAxtXR2OKvtFtVEcjYoQ)
 
 * [Laraseo - SEO](https://mega.nz/folder/xgRBlaSC#OzQSzfXaTHpyKNRWpRNkTA)
+
+* [Modelos Recursivos con Eloquent](https://mega.nz/folder/IlhFHDQb#Ok11YsX5hgNlaAYsV4JAxg)
 
 * [PHP 7.4 - Full](https://mega.nz/folder/hhQkACRb#yRZFR9FH6BrtzTmCbifs6w)
 
