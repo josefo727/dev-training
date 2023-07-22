@@ -38,6 +38,8 @@
 
 * [Build an API with Laravel](https://mega.nz/file/hh51VbaJ#Sq6RgWPGCBe3azBJt_rem9jY2S3KHfg2PNRUTXykrbs)
 
+* [Laravel - Curso práctico avanzado](https://mega.nz/file/E5pmFAzR#5g5Y97lKyOMWbPnhnqZ6EOm79PjPFx_4ORfTfKDHp0E)
+
 ## Java
 
 * [Java Esencial](https://mega.nz/folder/R1gihJYZ#uOACPEkWMRRCtixsiA0y8g)
