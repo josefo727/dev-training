@@ -32,6 +32,8 @@
 
 * [Realtime Messenger usando Laravel, Vue, Bootstrap 4 y Pusher](https://mega.nz/folder/FhwyhKYJ#9QQ_DbwpzpScXBmM16Yi-Q)
 
+* [Laravel Filament V3 Gestion de Inventario](https://mega.nz/folder/FxoBBbyB#GkXCxFmiqUXQxmM5aCFdjA)
+
 * [Testing y TDD para PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
 
 * [Testing con Dobles en PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
