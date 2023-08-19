@@ -34,6 +34,8 @@
 
 * [Laravel Filament V3 Gestion de Inventario](https://mega.nz/folder/FxoBBbyB#GkXCxFmiqUXQxmM5aCFdjA)
 
+* [Sistema e-Learning con Laravel Filament 3](https://mega.nz/folder/dkADnZxa#2qfNLn1DyI7DxnkZzZvyeA)
+
 * [Testing y TDD para PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
 
 * [Testing con Dobles en PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
