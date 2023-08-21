@@ -36,6 +36,8 @@
 
 * [Sistema e-Learning con Laravel Filament 3](https://mega.nz/folder/dkADnZxa#2qfNLn1DyI7DxnkZzZvyeA)
 
+* [Blog con roles y permisos en Laravel Filament 3](https://mega.nz/folder/90QkRKyC#dxf5gJFzQA4RdNU8RAJ7Ng)
+
 * [Testing y TDD para PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
 
 * [Testing con Dobles en PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
