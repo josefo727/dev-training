@@ -42,6 +42,8 @@
 
 * [Trabajo con Acciones en Laravel Filament 3](https://mega.nz/folder/loglmAQR#vb2eWpzUEnKh3J6fyxM5Dw)
 
+* [Event Sourcing en Laravel](https://mega.nz/folder/skQkXCII#agj1vsE8YMLHrWOO3N98Jw)
+
 * [Testing y TDD para PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
 
 * [Testing con Dobles en PHP](https://mega.nz/file/R4pyzD7Q#BSS7zMzPbolBPLZIIoY8NvRJzWjDZG2Os_AswfAX3Ds)
